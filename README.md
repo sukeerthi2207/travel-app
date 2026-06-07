@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Agency Web Application
 
 This Travel Agency Web Application is built with HTML, SCSS, and JavaScript, featuring basic user authentication, package management, booking forms, and admin functionalities.
@@ -63,3 +64,7 @@ We welcome contributions to improve Travel. Agency Web Application! To contribut
 For questions, please contact 
 - [GitHub](https://github.com/kashiekzmi)
 - [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
+=======
+# travel-app
+A full-stack travel management web application that enables users to explore travel packages, make bookings, and manage travel information through an interactive web interface.
+>>>>>>> ca795229ed34c5228c969116376b853871a1f1c7
